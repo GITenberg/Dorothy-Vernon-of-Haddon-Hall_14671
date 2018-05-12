@@ -1,0 +1,38 @@
+_repo: Dorothy-Vernon-of-Haddon-Hall_14671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Major, Charles
+    birthdate: 1856
+    deathdate: 1913
+    gutenberg_agent_id: '4202'
+    url: http://www.gutenberg.org/2009/agents/4202
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Major
+description: "Dorothy Vernon of Haddon Hall is a 1902 historical novel written by\
+  \ Charles Major. Following the life and romances of Dorothy Vernon in Elizabethan\
+  \ England, the novel became the year's third most successful novel according to\
+  \ The Bookman annual list of bestselling novels. The novel was Charles Major's third,\
+  \ and his second bestseller, following When Knighthood Was in Flower.\nA 1903 play\
+  \ and a 1924 film are based on the novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14671'
+  wikidata: Q5298663
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Haddon Hall (England) -- Fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+title: Dorothy Vernon of Haddon Hall
+url: http://www.gutenberg.org/ebooks/14671
+wikipedia:
+- https://en.wikipedia.org/wiki/Dorothy_Vernon_of_Haddon_Hall
