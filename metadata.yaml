@@ -17,6 +17,8 @@ description: "Dorothy Vernon of Haddon Hall is a 1902 historical novel written b
   \ The Bookman annual list of bestselling novels. The novel was Charles Major's third,\
   \ and his second bestseller, following When Knighthood Was in Flower.\nA 1903 play\
   \ and a 1924 film are based on the novel.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14671#Dorothy-Vernon-of-Haddon-Hall
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-01-11'
 gutenberg_type: Text
