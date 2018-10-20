@@ -11,6 +11,7 @@ Title: Dorothy Vernon of Haddon Hall
 Author: Charles Major
 
 Release Date: January 11, 2005 [EBook #14671]
+[Last updated: January 11, 2016]
 
 Language: English
 
@@ -77,7 +78,7 @@ CONTENTS
 A TOUCH OF BLACK MAGIC                                  1
 
 CHAPTER
-   I. I RIDE SOWN TO HADDON                             3
+   I. I RIDE DOWN TO HADDON                             3
   II. THE IRON, THE SEED, THE CLOUD, AND THE RAIN      19
  III. THE PITCHER GOES TO THE WELL                     35
   IV. THE GOLDEN HEART                                 62
@@ -637,7 +638,7 @@ an orderly retreat from the Scottish court before my lustre should be
 entirely dimmed. It is said that a man is young so long as he is strong,
 and I was strong as in the days of my youth. My cheeks were fresh, my eyes
 were bright, and my hair was red as when I was twenty, and without a
-thread of gray. Stills my temperament was more exacting and serious, and
+thread of gray. Still, my temperament was more exacting and serious, and
 the thought of becoming settled for life, or rather for old age and death,
 was growing in favor with me. With that thought came always a suggestion
 of slim, freckled Dorothy and Sir George's offer. She held out to me
@@ -1301,6 +1302,7 @@ Lady Crawford joined Madge and me near the fireplace. Soon Dorothy went
 over to the window and stood there gazing into the courtyard. After a few
 minutes Lady Crawford said, "Dorothy, had we not better order Dawson to
 bring out the horses and coach?" Will Dawson was Sir George's forester.
+
 Lady Crawford repeated her question, but Dorothy was too intently watching
 the scene in the courtyard to hear. I went over to her, and looking out at
 the window discovered the object of Dorothy's rapt attention. There is no
@@ -1365,7 +1367,7 @@ and when toward morning he was carried from the room by his servants, the
 company broke up. Those who could do so reeled home; those who could not
 walk at all were put to bed by the retainers at Haddon Hall. I had chosen
 my bedroom high up in Eagle Tower. At table I had tried to remain sober.
-That, however, was an impossible task, for at the upper end of the hail
+That, however, was an impossible task, for at the upper end of the hall
 there was a wrist-ring placed in the wainscoting at a height of ten or
 twelve inches above the head of an ordinary man, and if he refused to
 drink as much as the other guests thought he should, his wrist was
@@ -5839,7 +5841,7 @@ to overcome before she could see John, as she declared to Madge she would.
 But my opinion is that there are no limits to the resources of a wilful
 girl. Dorothy saw Manners. The plan she conceived to bring about the
 desired end was so seemingly impossible, and her execution of it was so
-adroit and daring, that I believe it will of itself Interest you in the
+adroit and daring, that I believe it will of itself interest you in the
 telling, aside from the bearing it has upon this history. No sane man
 would have deemed it possible, but this wilful girl carried it to
 fruition. She saw no chance of failure. To her it seemed a simple, easy
@@ -8322,7 +8324,7 @@ him.
 
 "I will put them all back," she said. "You know you are cold and very
 tired. You have been overseeing the tenantry and have been hunting. Will
-you have a howl of punch, my--my husband?" and she laughed again and
+you have a bowl of punch, my--my husband?" and she laughed again and
 kissed him as she passed to the holder for another fagot.
 
 "I much prefer that to punch," said John, laughing softly. "Have you
@@ -8876,7 +8878,7 @@ CHAPTER XII
 THE LEICESTER POSSIBILITY
 
 
-On Leaving the dungeon I sought Madge, and after I had whispered a word to
+On leaving the dungeon I sought Madge, and after I had whispered a word to
 her from my heart I asked her to tell Dorothy the encouraging words of the
 surgeon, and also to tell her that she should not be angry with me until
 she was sure she had good cause. I dared not send a more explicit message,
@@ -10382,7 +10384,7 @@ she feared might become her rival. One-half of what she feared, she was
 sure had been accomplished: that is, Mary's half. She knew in her heart
 that the young queen would certainly grow fond of John. That was a
 foregone conclusion. No woman could be with him and escape that fate,
-thought Dorothy. Her hope as to the other half-John's part-rested solely
+thought Dorothy. Her hope as to the other half--John's part--rested solely
 upon her faith in John, which was really great, and her confidence in her
 own charms and in her own power to hold him, which in truth, and with good
 reason, was not small, Dorothy went to bed, and Jennie, following her
@@ -10557,7 +10559,7 @@ she suffered deadened her power to think. She wandered aimlessly about the
 room, trying to collect her senses, but her mind was a blank. After a few
 minutes she ran back to the queen, having an undefined purpose of doing
 something to avert the consequences of her mad act. She at first thought
-to tell the queen that the Information she had given concerning Mary
+to tell the queen that the information she had given concerning Mary
 Stuart's presence in Rutland was false, but she well knew that a lie
 seldom succeeds; and in this case, even through her clouded mentality, she
 could see that a lie would surely fail. She determined to beg the queen to
@@ -10966,7 +10968,7 @@ suffer. I offer no excuse. I have none. I simply betrayed you, and ask
 only that I may die with you."
 
 Then was manifest in John's heart the noblest quality which God has given
-to man-charity, strengthened by reason. His face glowed with a light that
+to man--charity, strengthened by reason. His face glowed with a light that
 seemed saintlike, and a grand look of ineffable love and pity came to his
 eyes. He seemed as if by inspiration to understand all that Dorothy had
 felt and done, and he knew that if she had betrayed him she had done it at
@@ -11027,7 +11029,7 @@ snatched a halberd from the hands of a yeoman who was standing near by and
 started toward John and Dorothy. Thereupon the hard old warrior, Sir
 William St. Loe, whose heart one would surely say was the last place where
 sentiment could dwell, performed a little act of virtue which will balance
-many a page on the debtor side of his ledger of life, he lifted his sword
+many a page on the debtor side of his ledger of life. He lifted his sword
 and scabbard and struck Sir George's outstretched hand, causing the
 halberd to fall to the ground.
 
@@ -11140,8 +11142,9 @@ Queen Mary occupied the back seat of the coach, and Dorothy and I sat upon
 the front seat facing her.
 
 Dorothy was exhausted, and her head lay upon my shoulder. Now and again
-she would softly moan and sob, but she said nothing. After a few minutes
-of silence Queen Mary spoke:--
+she would softly moan and sob, but she said nothing.
+
+After a few minutes of silence Queen Mary spoke:--
 
 "Why did you betray me, you miserable wretch? Why did you betray me?"
 
